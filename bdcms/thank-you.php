@@ -8,7 +8,7 @@ error_reporting(0);
 <!DOCTYPE html>
 <html lang="zxx">
    <head>
-      <title>Baby Day Care Management System | Thank You Page</title>
+      <title>Iteru Web Application | Thank You Page</title>
       <!--meta tags -->
       
       <script>

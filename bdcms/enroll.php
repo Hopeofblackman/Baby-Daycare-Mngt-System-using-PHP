@@ -40,7 +40,7 @@ if(isset($_POST['submit']))
 <!DOCTYPE html>
 <html lang="zxx">
    <head>
-      <title>Baby Day Care Management System | Enrollment Page</title>
+      <title>Iteru Web Application | Enrollment Page</title>
       <!--meta tags -->
       
       <script>
@@ -115,11 +115,11 @@ if(isset($_POST['submit']))
                      </div>
                      <div class="col-lg-6 col-md-6 col-sm-6 form-group contact-forms"><label>Program:</label>
                         <select type="text" class="form-control" placeholder="Child Name" required="" name="program">
-                           <option value="">Choose Program</option>
-                           <option value="Play Group">Play Group(1.5-2.5 yrs)</option>
-                           <option value="Nursery">Nursery(2.5-3.5 yrs)</option>
-                            <option value="Lower KG">Lower KG(3.5-4.5 yrs)</option>
-                           <option value="Upper KG">Upper KG(4.5-6 yrs)</option>
+                           <option value="">Choose industry</option>
+                           <option value="Play Group">Car Sales</option>
+                           <option value="Nursery">Finance or E-commerce</option>
+                            <option value="Lower KG">Construction</option>
+                           <option value="Upper KG">Other</option>
                         </select>
                      </div>
                   </div>
@@ -149,7 +149,7 @@ if(isset($_POST['submit']))
                      </div>
                   </div>
                   <div class="text-left click-subscribe">
-                     <button type="submit" class="btn click-me" type="submit" name="submit">Enroll</button>
+                     <button type="submit" class="btn click-me" type="submit" name="submit">Get A Free Demo</button>
                   </div>
                </form>
             </div>

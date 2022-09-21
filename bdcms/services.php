@@ -8,7 +8,7 @@ error_reporting(0);
 <!DOCTYPE html>
 <html lang="zxx">
    <head>
-      <title>Baby Day Care Management System | Service Page</title>
+      <title>Iteru Web Applications | Service Page</title>
       <!--meta tags -->
       
       <script>
@@ -42,7 +42,7 @@ error_reporting(0);
       <!-- blog -->
       <section class="blog py-lg-4 py-md-3 py-sm-3 py-3" id="blog">
          <div class="container py-lg-5 py-md-5 py-sm-4 py-3">
-            <h3 class="title text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">Baby Care Services</h3>
+            <h3 class="title text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">Web Application Development Services</h3>
             <div class="row">
               <?php
 

@@ -42,7 +42,7 @@ error_reporting(0);
             <div class="container">
                <div class="slider-info">
                   <h5>Iteru Web Applications</h5>
-                  <h4>Best website design & functional Services </h4>
+                  <h4>Websites That Do More  </h4>
                   <p>Let us optimize your business online</p>
                </div>
                <div class="outs_more-buttn mt-md-4 mt-3">
@@ -62,7 +62,7 @@ error_reporting(0);
                   <div id="content1">
                      <div class="row">
                         <div class="col-lg-6 text-center image-about-text">
-                           <img src="images/ab1.jpg" class="img-fluid" alt="">
+                           <img src="images/b2.jpg" class="img-fluid" alt="iteru">
                         </div>
                         <div class="col-lg-6 ">
                             <?php

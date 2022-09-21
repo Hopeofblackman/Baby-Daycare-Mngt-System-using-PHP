@@ -85,7 +85,7 @@ $babysittercnt=mysqli_num_rows($query);
 
 
                 <h3><?php echo $babysittercnt;?></h3>
-                <p>Baby Sitter</p>
+                <p>Developer</p>
               </div>
               <div class="icon">
                 <i class="ion ion-person"></i>

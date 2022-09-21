@@ -109,7 +109,7 @@ color: #fff;
 margin: 0 0 7px;
 }
 .team-bottom-grid h6{color:#007bff;}
-.wthree-header-abt h2, .wthree-header-abt h5{color:#fff;}
+.wthree-header-abt h2, .wthree-header-abt h5{color:rgb(125, 173, 255);}
 .blog-matter h5 a{color:#007bff;}
 /*-- nav --*/
 /* navigation */
@@ -175,7 +175,7 @@ transition: 0.5s all;
 -ms-transition: 0.5s all;
 }
 nav ul li ul li:hover {
-background: #f8f9fa;
+background: #94c8fb;
 }
 .menu li .drop-text:hover {
 color: #000;
@@ -988,8 +988,10 @@ font-size: 17px;
 padding: 14px 0px 0px;
 }
 .headder-top {
+color:rgb(125, 173, 255);
 padding: 9px;
 }
+
 }
 @media(max-width:640px){
 h3.title {

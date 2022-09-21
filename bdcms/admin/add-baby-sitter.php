@@ -57,7 +57,7 @@ echo "<script>alert('Something went wron. Please try again.');</script>";
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>BDCMS  | Add Baby Sitter</title>
+  <title>Iteru Web Application  | Add Developer</title>
 
   <link rel="stylesheet" href="../plugins/fontawesome-free/css/all.min.css">
 
@@ -90,12 +90,12 @@ echo "<script>alert('Something went wron. Please try again.');</script>";
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1>Add Baby Sitter</h1>
+            <h1>Add Developer</h1>
           </div>
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
               <li class="breadcrumb-item"><a href="dashboard.php">Dashboard</a></li>
-              <li class="breadcrumb-item active">Add Baby Sitter</li>
+              <li class="breadcrumb-item active">Add Developer</li>
             </ol>
           </div>
         </div>

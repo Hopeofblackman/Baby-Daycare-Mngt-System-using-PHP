@@ -3,7 +3,7 @@
     <!-- Brand Logo -->
     <a href="dashboard.php" class="brand-link">
 
-      <span class="brand-text font-weight-light">BDCMS | Admin </span>
+      <span class="brand-text font-weight-light">Iteru | Admin </span>
     </a>
     <div class="sidebar">
       <!-- Sidebar user panel (optional) -->
@@ -94,7 +94,7 @@
             <a href="#" class="nav-link">
               <i class="nav-icon fas fa-users"></i>
               <p>
-               Baby Sitter
+               Web developer
                 <i class="right fas fa-angle-left"></i>
               </p>
             </a>

@@ -44,7 +44,7 @@ echo "<script>window.location.href ='index.php'</script>";
       </section>
          <div class="copy-bottom-txt text-center py-3">
             <p> 
-               © <?php echo date('Y');?> Baby Day Care Management System.
+               © <?php echo date('Y');?> Iteru Web Application.
             </p>
          </div>
 
